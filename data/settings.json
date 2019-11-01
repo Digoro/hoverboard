@@ -1,19 +1,19 @@
 {
   "organizer": {
-    "name": "GDG Lviv",
+    "name": "GDG Daejeon",
     "twitter": "gdglviv",
     "blog": "https://medium.com/gdg-lviv",
-    "url": "http://lviv.gdg.org.ua/"
+    "url": "https://www.meetup.com/ko-KR/GDG-Daejeon/"
   },
-  "startDate": "2017-10-013T09:00:00+03:00",
-  "endDate": "2017-10-14T19:00:00+03:00",
+  "startDate": "2019-11-23T13:00:00",
+  "endDate": "2019-11-23T17:00:00",
   "webapp": {
     "shortName": "DevFest",
     "themeColor": "#673AB7",
     "backgroundColor": "#673AB7"
   },
   "dateFormat": {
-    "locale": "en-US"
+    "locale": "ko-KR"
   },
   "hashtag": "DevFest",
   "disabledSchedule": false,
@@ -37,11 +37,6 @@
       "route": "team",
       "permalink": "/team/",
       "label": "Team"
-    },
-    {
-      "route": "blog",
-      "permalink": "/blog/",
-      "label": "Blog"
     }
   ],
   "heroSettings": {
@@ -114,19 +109,19 @@
   "location": {
     "label": "Location",
     "name": "Planeta kino",
-    "city": "Lviv",
-    "short": "Lviv, Ukraine",
-    "address": "36 Shchyretska St, Lviv, Ukraine",
+    "city": "대전",
+    "short": "대전 대덕소프트웨어마이스터 고등학교",
+    "address": "대전광역시 유성구 장동 가정북로 76",
     "pointer": {
-      "latitude": 49.809841,
-      "longitude": 23.972805,
+      "latitude": 36.391677,
+      "longitude": 127.363366,
       "zoom": 5
     },
     "mapCenter": {
-      "latitude": 48,
-      "longitude": 8
+      "latitude": 36,
+      "longitude": 127
     },
-    "description": "Newly built Pivdennyi Expo is a long-awaited exhibition center in Lviv, which can fulfill the needs of the large-scale event"
+    "description": "이번 Devfest는 '학교' 컨셉으로 진행됩니다. 실제로 고등학교 내에서 이벤트가 열립니다!"
   },
   "mediaQueries": {
     "xs": {
@@ -148,23 +143,11 @@
     "follow": [
       {
         "name": "meetup",
-        "url": "https://www.meetup.com/GDG-Lviv/events/244342635/"
+        "url": "https://www.meetup.com/ko-KR/GDG-Daejeon/"
       },
       {
         "name": "facebook",
-        "url": "https://www.facebook.com/devfest.ukraine/"
-      },
-      {
-        "name": "twitter",
-        "url": "https://twitter.com/devfest_ukraine/"
-      },
-      {
-        "name": "instagram",
-        "url": "https://www.instagram.com/devfestukraine"
-      },
-      {
-        "name": "youtube",
-        "url": "https://www.youtube.com/playlist?list=PLt8lEzcLNl31AouwDkbLbLARlQFwNS2en"
+        "url": "https://www.facebook.com/groups/gdg.daejeon/"
       }
     ],
     "share": [
@@ -178,7 +161,7 @@
       }
     ]
   },
-  "mailto": "devfest@gdg.org.ua",
+  "mailto": "daejeon.gdg@gmail.com",
   "signInProviders": {
     "providersData": [
       {

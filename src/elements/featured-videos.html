@@ -44,7 +44,7 @@
       }
 
       .video-item:not(:last-of-type) {
-          padding-right: 18px;
+        padding-right: 18px;
       }
 
       .video-item:hover .video-play-icon {
@@ -120,9 +120,8 @@
           right: 0;
         }
       }
-
     </style>
-    <div class="container">
+    <!-- <div class="container">
       <div class="header" layout horizontal justified center wrap>
         <h1 class="container-title">{$ featuredVideos.title $}</h1>
       </div>
@@ -187,7 +186,7 @@
           <iron-icon icon="hoverboard:arrow-right-circle"></iron-icon>
         </paper-button>
       </a>
-    </div>
+    </div> -->
   </template>
 
   <script>
@@ -267,7 +266,7 @@
 
         if (currentPosition >= maxRightPosition) {
           const adjustToRight = newX < maxRightPosition ||
-              (Math.abs(maxRightPosition) - Math.abs(newX) < cardWidth);
+            (Math.abs(maxRightPosition) - Math.abs(newX) < cardWidth);
 
           if (adjustToRight) {
             newX = maxRightPosition;
@@ -288,13 +287,13 @@
         const videos = this.shadowRoot.querySelectorAll('.video-item');
         const cardRect = videos[videos.length - 1].getBoundingClientRect();
         const cardWidth = cardRect.width;
-        const videosContainerWidth = parseInt(getComputedStyle(this.$.videoList, null)
-            .getPropertyValue('width'));
-        const videosWidth = parseInt(getComputedStyle(this.$.videos, null)
-            .getPropertyValue('width'));
+        const videosContainerWidth =
+          parseInt(getComputedStyle(this.$.videoList, null).getPropertyValue('width'));
+        const videosWidth =
+          parseInt(getComputedStyle(this.$.videos, null).getPropertyValue('width'));
         const maxRightPosition = -(videosWidth - videosContainerWidth) - 16;
-        const currentPosition = parseInt(getComputedStyle(this.$.videos, null)
-            .getPropertyValue('transform').split(',')[4]);
+        const currentPosition =
+          parseInt(getComputedStyle(this.$.videos, null).getPropertyValue('transform').split(',')[4]);
 
         return {
           cardWidth,

@@ -1,9 +1,9 @@
 {
-  "title": "GDG DevFest Season 2018",
+  "title": "GDG Daejeon DevFest 2019",
   "description": "Join the commuity, learn new things!",
   "image": "images/social-share.jpg",
-  "keywords": "event, gdg, gde, devfest, google, programming, android, chrome, polymer, developers, web, cloud, androiddev",
-  "dates": "October 12-13, 2018",
+  "keywords": "daejeon, event, gdg, gde, devfest, google, programming, android, chrome, polymer, developers, web, cloud, androiddev",
+  "dates": "2019년 11월 23일",
   "partnershipProposition": "https://bit.ly/dfua17-partners",
   "share": "Share",
   "followOur": "Follow our",
@@ -11,10 +11,10 @@
   "emailUs": "Email us",
   "partnershipResources": "Partnership Resources",
   "eventResources": "Event Resources",
-  "buyTicket": "Buy ticket",
+  "buyTicket": "티켓 구매하기",
   "signIn": "Sign in",
   "signOut": "Sign out",
-  "viewHighlights": "View Highlights",
+  "viewHighlights": "하이라이트",
   "offlineMessage": "You can still work offline.",
   "cachingComplete": "Caching complete! Future visits will work offline.",
   "newVersionAvailable": "A new version of this app is available.",
@@ -36,8 +36,8 @@
       "title": "About",
       "links": [
         {
-          "name": "GDG Lviv",
-          "url": "http://lviv.gdg.org.ua/",
+          "name": "GDG Daejeon",
+          "url": "https://www.meetup.com/ko-KR/GDG-Daejeon/",
           "newTab": true
         },
         {
@@ -51,69 +51,24 @@
           "newTab": true
         },
         {
-          "name": "Meet the Team",
-          "url": "https://devfest.gdg.org.ua/team/",
+          "name": "Notion",
+          "url": "https://www.notion.so/gdgdaejeon/Welcome-to-GDG-75399b6a742b46b8a466bc26dc583b7b",
           "newTab": true
         }
       ]
     },
     {
-      "title": "Explore Past DevFests",
+      "title": "Etc",
       "links": [
         {
-          "name": "DFUA 2013",
-          "url": "http://gdg-devfest-ua.appspot.com/",
+          "name": "Code of Conduct(CoC)",
+          "url": "/coc/",
           "newTab": true
-        },
-        {
-          "name": "DFUA 2014",
-          "url": "https://dfua14.firebaseapp.com//",
-          "newTab": true
-        },
-        {
-          "name": "DFUA 2015",
-          "url": "https://dfua15.firebaseapp.com/",
-          "newTab": true
-        },
-        {
-          "name": "DFUA 2016",
-          "url": "https://dfua16.firebaseapp.com/",
-          "newTab": true
-        }
-      ]
-    },
-    {
-      "title": "Event Resources",
-      "links": [
-        {
-          "name": "Partnership Proposition",
-          "url": "https://devfest.gdg.org.ua/assets/GDG_DevFest_2016_partnership_proposition.pdf",
-          "newTab": true
-        },
-        {
-          "name": "Info Partnership Proposition",
-          "url": "https://devfest.gdg.org.ua/assets/GDG_DevFest_2016_partnership_proposition.pdf",
-          "newTab": true
-        },
-        {
-          "name": "Media Kit",
-          "url": "https://devfest.gdg.org.ua/assets/GDG_DevFest_2016_partnership_proposition.pdf",
-          "newTab": true
-        },
-        {
-          "name": "Call for Papers",
-          "url": "https://drive.google.com/open?id=10tPuu_7ASM8C70SotqRqIW5Uzos9BzALilMMQPg_JvA",
-          "newTab": true
-        },
-        {
-          "name": "FAQs",
-          "url": "/faq/",
-          "newTab": false
         }
       ]
     }
   ],
-  "subscribeNote": "No spam, only the latest news and updates!",
+  "subscribeNote": "스팸은 없고, 최신 뉴스와 업데이트만!",
   "codeOfConduct": "Code of Conduct",
   "codeOfConductBlock": {
     "organization": "DevFest",
@@ -127,52 +82,52 @@
     "title": "About",
     "callToAction": {
       "featuredSessions": {
-        "description": "GDG DevFest Ukraine brings together the world class experts in Android, Web and Cloud technologies to Lviv for 2 days of sessions, workshops and showcases.",
-        "label": "Explore featured session",
-        "link": "https://www.youtube.com/playlist?list=PLt8lEzcLNl31AouwDkbLbLARlQFwNS2en"
+        "description": "GDG Daejeon은 Google Developer Group의 대전 챕터로서, 구글 기술에 관심이 있는 대전 및 충청 지역 개발자들을 위한 모임 입니다. 구글 기술이 아니더라도 개발을 좋아하시는 분들, 다른 사람들과 커뮤니케이션을 하고 싶은 개발자 분들 모두에게 열려있는 커뮤니티입니다.",
+        "label": "GDG 대전 밋업",
+        "link": "https://www.meetup.com/ko-KR/GDG-Daejeon/"
       },
       "howItWas": {
-        "description": "Described by many as 'Google I/O of Ukraine', our team creates DevFest to be the best place for experience sharing in a phenomenal atmosphere.",
-        "label": "See how it was in 2016",
-        "youtubeId": "TdpbgRgz6eE"
+        "description": "개발자들의 축제, Devfest가 열립니다.  다양한 기술을 주제로 개발과 관련된 모든 구성원이 한자리에 모여 서로의 경험과 지식과 아이디어를 나누는 DevFest Daejeon에 여러분을 초대합니다. 페이스북 그룹에 조인하여 최신 소식을 확인하세요!",
+        "label": "페이스북 그룹",
+        "link": "https://www.facebook.com/groups/gdg.daejeon"
       }
     },
     "statisticsBlock": {
       "attendees": {
         "label": "Attendees",
-        "number": "900"
+        "number": "150"
       },
       "days": {
         "label": "Days",
-        "number": "2"
+        "number": "1"
       },
       "sessions": {
         "label": "Sessions",
-        "number": "50"
+        "number": "8"
       },
       "tracks": {
         "label": "Tracks",
-        "number": "4"
+        "number": "3"
       }
     }
   },
   "ticketsBlock": {
     "title": "Tickets",
-    "ticketsDetails": "Tickets grant access to all conference sections, coffee breaks, lunch and party. Accommodation is NOT included in the ticket price.",
+    "ticketsDetails": "Devfest 입장권과 소정의 기념품을 드립니다!",
     "soldOut": "You missed it!",
     "notAvailableYet": "Not available yet",
     "save": "Save ${discount}% today"
   },
   "partnersBlock": {
     "title": "Partners",
-    "button": "Become a partner",
+    "button": "파트너되기",
     "form": {
-      "title": "Become a partner!",
-      "submitLabel": "Submit",
-      "fullName": "Full Name",
-      "companyName": "Company Name"
+      "title": "파트너가 되어주세요!",
+      "submitLabel": "제출",
+      "fullName": "이름",
+      "companyName": "회사명"
     },
-    "toast": "We will contact you soon!"
+    "toast": "조만간 연락드리겠습니다!"
   },
   "featuredVideos": {
     "title": "DFUA'16 featured videos",
@@ -200,7 +155,7 @@
   "speakersBlock": {
     "title": "Speakers",
     "callToAction": {
-      "label": "View all speakers",
+      "label": "스피커 모두 보기",
       "link": "/speakers/"
     }
   },
@@ -212,32 +167,32 @@
     }
   },
   "galleryBlock": {
-    "title": "#dfua16 highlights",
-    "description": "This year's festival built lots of excitement. Check out photos from featured talks, hands-on learning sessions, and after-hours fun.",
+    "title": "#google io extended highlights",
+    "description": "최근에는 Google IO Extended 행사가 있었습니다. Google I/O의 현장 경험과 발표한 내용을 공유하고 충청/대전 지역의 개발자, 디자이너, 기획자 등 IT 관련 종사자들의 네트워크 파티를 열었습니다.",
     "callToAction": {
-      "label": "See all photos",
-      "link": "https://goo.gl/photos/H8s3CtPexCzkLqSt9"
+      "label": "사진 모두 보기",
+      "link": "https://photos.google.com/share/AF1QipPGqlIgADogQbuq2eovseB8I_H6NgJCydlgRvHh7PfkdiviDKmg5vM-H7eFdPIA7A?key=eUxrOEg5WERDZzNzSHF4WlVMd3l2MHMxNnUyQzFn"
     }
   },
   "mapBlock": {
-    "title": "Location"
+    "title": "위치"
   },
   "subscribeBlock": {
     "callToAction": {
-      "description": "Get notified about the important conference updates",
-      "label": "Subscribe"
+      "description": "GDG Daejeon의 최신 행사 소식과 인사이트를 얻으세요!",
+      "label": "구독 하기"
     },
-    "yourEmail": "Your email",
-    "emailAddress": "Email Address",
+    "yourEmail": "이메일 주소를 입력해주세요",
+    "emailAddress": "이메일 주소",
     "firstName": "First Name",
     "lastName": "Last Name",
-    "formTitle": "Get the latest updates, insights and news about GDG DevFest Ukraine sent to your inbox.",
-    "emailRequired": "Please enter a valid email address.",
-    "subscribe": "Subscribe",
-    "subscribed": "Subscribed",
-    "close": "Close",
+    "formTitle": "GDG Daejeon의 최신 행사 소식을 확인하고 인사이트를 얻으세요!",
+    "emailRequired": "올바른 이메일 주소를 입력해주세요.",
+    "subscribe": "구독 하기",
+    "subscribed": "구독 완료",
+    "close": "닫기",
     "generalError": "An error has occurred. Please, try again later.",
-    "toast": "Successfully subscribed!"
+    "toast": "최신 소식을 메일에서 확인할 있습니다. 감사합니다!"
   },
   "team": {
     "description": "Google is known all around the world. Everyone is 'googling', checking on 'maps' and communicating in 'gmail'. For simple users, they are services that just works, but not for us. Developers see much more: APIs, scalability issues, complex technology stacks. And that is what GDG is about.<br><br> [Google Developers Group (GDG) Lviv](http://lviv.gdg.org.ua/) - is open and volunteer geek community who create exciting projects and share experience about Google technologies with a passion.<br><br> Our goal is to organize space to connect the best industry experts with Ukrainian audience to boost development of IT."
@@ -273,26 +228,26 @@
     "blocks": [
       {
         "title": "Organizer",
-        "description": "<a href='http://lviv.gdg.org.ua' target='_blank'>GDG Lviv</a> with support of 10 GDGs from all around Ukraine is proud organizer of DevFest Ukraine",
+        "description": "<a href='https://www.meetup.com/ko-KR/GDG-Daejeon/' target='_blank'>GDG Daejeon</a>은 3명의 운영진이 활동하고 있으며 다양하고 수준 높은 행사를 개최할 수 있도록 노력하고 있습니다.",
         "callToAction": {
-          "label": "Open team page",
+          "label": "팀 페이지 보기",
           "link": "/team"
         }
       },
       {
         "title": "What is a GDG?",
-        "description": "A Google Developer Group is a community of volunteers who create exciting projects and share experiences about Google technologies.",
+        "description": "Google Developer Groups로 구글 기술스택을 중점으로한 다양한 이벤트와 행사를 진행합니다.",
         "callToAction": {
-          "label": "Read more",
+          "label": "상세 보기",
           "link": "https://developers.google.com/groups/",
           "newTab": true
         }
       },
       {
         "title": "What is DevFest?",
-        "description": "DevFests are community-led developer events hosted by Google Developer Groups around the globe.",
+        "description": "DevFest는 전세계 Google Developer Groups에서 주최하는 개발자 커뮤니티 이벤트입니다.",
         "callToAction": {
-          "label": "Read more",
+          "label": "상세 보기",
           "link": "https://devfest.withgoogle.com/",
           "newTab": true
         }
