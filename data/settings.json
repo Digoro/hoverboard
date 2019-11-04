@@ -58,8 +58,8 @@
     },
     "speakers": {
       "title": "Speakers",
-      "metaDescription": "Hear from the Googlers, Partners, and Guest Speakers who are building the future of cloud. Check back often as we add more speakers, including our customers and partners.",
-      "description": "Hear from the Googlers, Partners, and Guest Speakers who are building the future of cloud. Check back often as we add more speakers, including our customers and partners.",
+      "metaDescription": "",
+      "description": "",
       "background": {
         "color": "#FFF"
       },
@@ -111,11 +111,11 @@
     "name": "Planeta kino",
     "city": "대전",
     "short": "대전 대덕소프트웨어마이스터 고등학교",
-    "address": "대전광역시 유성구 장동 가정북로 76",
+    "address": "대덕소프트웨어마이스터고등학교",
     "pointer": {
-      "latitude": 36.391677,
-      "longitude": 127.363366,
-      "zoom": 5
+      "latitude": 36.391695,
+      "longitude": 127.363387,
+      "zoom": 8
     },
     "mapCenter": {
       "latitude": 36,
@@ -151,10 +151,6 @@
       }
     ],
     "share": [
-      {
-        "name": "facebook",
-        "url": "https://www.facebook.com/sharer.php?u="
-      },
       {
         "name": "twitter",
         "url": "https://twitter.com/intent/tweet?text="

@@ -187,8 +187,8 @@ function copyStatic() {
     'data/**/*.{markdown,md}',
     'images/**/*.{png,gif,jpg,svg}',
   ], {
-    base: '.',
-  })
+      base: '.',
+    })
     .pipe(gulp.dest(config.tempDirectory));
 }
 
@@ -209,9 +209,9 @@ function getConfigPath() {
 }
 
 gulp.task('default', build);
-gulp.task('default', gulp.series(lint, build));
+// gulp.task('default', gulp.series(lint, build));
 
-gulp.task('lint', lint);
+// gulp.task('lint', lint);
 gulp.task('deploy', deploy);
 
 gulp.task('serve', gulp.series(compileTemplate, () => {
